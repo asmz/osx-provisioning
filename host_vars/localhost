@@ -1,0 +1,20 @@
+---
+homebrew_packages:
+  - zsh
+  - git
+  - tmux
+  - wget
+  - curl
+  - jq
+  - vim
+  - composer
+  - phpunit
+  - awscli
+  - heroku-toolbelt
+
+homebrew_cask_packages:
+  - google-chrome
+  - virtualbox
+  - vagrant
+  - slack
+  - sequel-pro
