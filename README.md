@@ -1,6 +1,14 @@
 # osx provisioning playbook
 
 Inspired by https://github.com/shin1x1/osx-provisioning-with-ansible
+
+## Requirements
+
+* Xcode
+* Homebrew
+```
+ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+```
  
 ## Usage
  
