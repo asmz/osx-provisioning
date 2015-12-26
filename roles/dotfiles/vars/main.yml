@@ -1,0 +1,2 @@
+my_dotfiles_repo: git@github.com:asmz/dotfiles.git
+my_dotfiles_dist: ~/conf/dotfiles

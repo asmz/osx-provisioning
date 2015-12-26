@@ -9,3 +9,7 @@ $ git clone git@github.com:asmz/osx-provisioning.git
 $ cd osx-provisioning
 $ ansible-playbook -i hosts osx.yml
 ```
+
+## Dependencies
+
+* https://github.com/asmz/dotfiles (use `dotfiles` role )

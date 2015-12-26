@@ -1,0 +1,12 @@
+---
+- name: Clone my dotfiles
+  git:
+        repo={{ my_dotfiles_repo }}
+        dest={{ my_dotfiles_dist }}
+        accept_hostkey=yes
+
+- name: Install my dotfiles
+  shell: |
+         cd {{ my_dotfiles_dist }} && 
+         make &&
+         make update
