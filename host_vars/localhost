@@ -7,14 +7,19 @@ homebrew_packages:
   - curl
   - jq
   - vim
+  - tree
   - composer
   - phpunit
   - awscli
   - heroku-toolbelt
 
 homebrew_cask_packages:
+  - alfred
+  - gimp
   - google-chrome
+  - google-drive
+  - karabiner
+  - sequel-pro
+  - slack
   - virtualbox
   - vagrant
-  - slack
-  - sequel-pro
