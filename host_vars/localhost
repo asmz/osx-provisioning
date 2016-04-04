@@ -8,10 +8,9 @@ homebrew_packages:
   - jq
   - vim
   - tree
-  - composer
-  - phpunit
   - awscli
   - heroku-toolbelt
+  - redis
 
 homebrew_cask_packages:
   - alfred
