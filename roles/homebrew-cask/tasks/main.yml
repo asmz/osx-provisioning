@@ -3,7 +3,7 @@
   homebrew_tap: tap=caskroom/cask state=present
 
 - name: Install/Upgrade Homebrew Cask
-  homebrew: name=brew-cask state=latest
+  homebrew: name=cask state=latest
 
 - name: Install/Upgrade Homebrew Cask packages
   homebrew_cask:
