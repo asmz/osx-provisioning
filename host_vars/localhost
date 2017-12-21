@@ -19,14 +19,10 @@ homebrew_cask_packages:
   - alfred
   - appcleaner
   - cyberduck
-  - genymotion
   - gimp
-  - google-chrome
-  - google-drive
   - java
   - karabiner
   - sequel-pro
   - slack
-  - virtualbox
-  - vagrant
-  - franz
+  - clipy
+  - rambox
