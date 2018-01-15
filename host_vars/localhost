@@ -20,8 +20,6 @@ homebrew_cask_packages:
   - appcleaner
   - cyberduck
   - gimp
-  - java
-  - karabiner
   - sequel-pro
   - slack
   - clipy
