@@ -14,6 +14,8 @@ homebrew_packages:
   - ag
   - carthage
   - nodebrew
+  - graphviz
+  - plantuml
 
 homebrew_cask_packages:
   - alfred
@@ -23,4 +25,4 @@ homebrew_cask_packages:
   - sequel-pro
   - slack
   - clipy
-  - rambox
+  - station
