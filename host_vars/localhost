@@ -23,6 +23,5 @@ homebrew_cask_packages:
   - cyberduck
   - gimp
   - sequel-pro
-  - slack
   - clipy
   - station
