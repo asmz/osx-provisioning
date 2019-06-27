@@ -9,13 +9,11 @@ homebrew_packages:
   - vim
   - tree
   - awscli
-  - heroku-toolbelt
   - redis
   - ag
   - carthage
   - nodebrew
   - graphviz
-  - plantuml
 
 homebrew_cask_packages:
   - alfred
